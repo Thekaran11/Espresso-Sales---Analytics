@@ -31,8 +31,7 @@ Espresso Insights focuses on analyzing sales and customer data to drive better b
 
 🗂️ File Details
 
-File Name: Espresso Insights - Sales and Customer Analytics for Business Optimization.xlsm
-File Type: Macro-Enabled Excel Workbook (.xlsm)
+File Name: Espresso Insights - Sales and Customer Analytics for Business Optimization.xlsm File Type: Macro-Enabled Excel Workbook (.xlsm)
 
 Possible Sheets:
 
