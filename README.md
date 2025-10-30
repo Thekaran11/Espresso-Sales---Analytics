@@ -70,7 +70,7 @@ Tool / Feature	Purpose
 
 - Export results or share the dashboard for presentation.
 
-- Example Insights & KPIs
+📊 Example Insights & KPIs
 
 - Total Sales Revenue
 
